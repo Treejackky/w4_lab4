@@ -1,0 +1,19 @@
+.line1{
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+     
+}
+.line2{
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    width:38.2px;
+     
+}
+th{
+    border: 1px solid black;
+}
+tr:hover {
+    background-color: aqua;
+}
